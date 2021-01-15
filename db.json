@@ -46,33 +46,23 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 12
     },
     {
-      "name": "bu22",
-      "likes": 0,
+      "newToyObj": {
+        "name": "",
+        "image": "",
+        "like": 0
+      },
       "id": 9
     },
     {
-      "name": "bu22",
-      "likes": 0,
+      "newToyObj": {
+        "name": "Test",
+        "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+        "like": 0
+      },
       "id": 10
-    },
-    {
-      "name": "bu22",
-      "likes": 0,
-      "id": 11
-    },
-    {
-      "name": "bu33",
-      "likes": 0,
-      "id": 12
-    },
-    {
-      "name": "r3x",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 6,
-      "id": 13
     }
   ]
 }
